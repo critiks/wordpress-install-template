@@ -1,0 +1,7 @@
+// on gitignore le dossier wp à la racine (= /)
+/wp
+/wp-config.php
+ /wp-content
+
+// on gitignore tous le sdossiers nommés vendor (même dans ss dossiers = pas de chemin)
+vendor
